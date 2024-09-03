@@ -1,0 +1,17 @@
+# Ignorar arquivos de configuração do MySQL
+*.sql
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios temporários
+tmp/
+temp/
+
+# Ignorar diretórios e arquivos específicos de IDEs
+.idea/
+.vscode/
+*.swp
+
+# Ignorar arquivos gerados
+*.sql.gz
